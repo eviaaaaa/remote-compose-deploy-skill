@@ -1,0 +1,4 @@
+interface:
+  display_name: "远程 Compose 部署"
+  short_description: "按模块和环境初始化或执行远程部署"
+  default_prompt: "使用 $remote-compose-deploy 根据 deploy-configs/<module>-<env>.json 初始化或执行远程部署；只有在用户已明确给出模块和环境，或显式给出 ConfigPath 且配置完整时，才直接执行，否则先检查候选配置并询问。"
