@@ -66,7 +66,7 @@ deploy-configs/ai-system-dev.json
 
 模板文件位于：
 
-[`assets/deploy-config.template.json`](/D:/Binary/skills/remote-compose-deploy/assets/deploy-config.template.json)
+`assets/deploy-config.template.json`
 
 核心字段包括：
 
@@ -156,13 +156,13 @@ deploy-configs/ai-system-dev.json
 
 ## 参考
 
-- Skill 定义：[`SKILL.md`](/D:/Binary/skills/remote-compose-deploy/SKILL.md)
-- 会话示例：[`references/session-example.md`](/D:/Binary/skills/remote-compose-deploy/references/session-example.md)
-- 入口脚本：[`scripts/deploy.ps1`](/D:/Binary/skills/remote-compose-deploy/scripts/deploy.ps1)
+- Skill 定义：`SKILL.md`
+- 会话示例：`references/session-example.md`
+- 入口脚本：`scripts/deploy.ps1`
 
 ## License
 
-本项目基于 MIT License 发布，见 [`LICENSE`](/D:/Binary/skills/remote-compose-deploy/LICENSE)。
+本项目基于 MIT License 发布，见 `LICENSE`。
 
 ## 友链
 
